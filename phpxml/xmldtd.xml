@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE note[
+<!ENTITY nbsp "&#xA0;">
+<!ENTITY writer "writer:Donald Duck.">
+<!ENTITY copyright "copyright:Dhruv.">
+]>
+
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+<footer>&writer;&nbsp;&copyright;</footer>
+</note>
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<note>
+<title lang="en">Everyday Italian</title>
+<author>Giada De Laurentiis</author>
+<year>2005</year>
+<price>30.00</price>
+</note> -->

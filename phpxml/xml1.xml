@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<!-- <employees status ="ok">
+    <record man_no="101">
+       <name>Dhruv</name>
+       <position>CEO</position>
+    </record>
+
+    <record man_no = "102">
+        <name>Tasha Smith</name>
+        <position>Finance Manager</position>
+    </record>
+</employees> -->
+<!-- <bookstore>
+    <book category="COOKING">
+        <title>Everyday Italian</title>
+        <author>Chetan</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </book>
+    <book category="CHILDREN">
+        <title>harry poter</title>
+        <author>JK Rowling</author>
+        <year>2005</year>
+        <price>33.23</price>
+    </book>
+</bookstore> -->
+<!-- <friend category="best">
+        <name>My friends are Alice &gt; Jane.</name>
+</friend> -->
+<bookstore>
+  <book category="children">
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  <book category="web">
+    <title>Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+</bookstore>
+<!-- <table>
+  <tr>
+    <td>Apples</td>
+    <td>Bananas</td>
+  </tr>
+</table> -->
